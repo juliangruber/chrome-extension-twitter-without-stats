@@ -4,7 +4,7 @@
   "short_name": "Twitter Without Stats",
   "version": "0.0.0",
   "description": "remove stats counts from Twitter.com",
-  "author": "K.E. Mitchell",
+  "author": "Julian Gruber, K.E. Mitchell",
   "content_scripts": [
     {
       "matches": [
