@@ -11,7 +11,7 @@
         "*://twitter.com/*"
       ],
       "js": [
-        "onload.js"
+        "index.js"
       ],
       "run_at": "document_start",
       "all_frames": true
