@@ -1,5 +1,5 @@
-document.addEventListener('DOMContentLoaded', function () {
-  var style = document.createElement('style')
+document.addEventListener('DOMContentLoaded', () => {
+  const style = document.createElement('style')
   style.appendChild(document.createTextNode(
     '.ProfileTweet-actionCount, .ProfileNav-value, .ProfileCardStats-statValue, .js-stat-count strong { display: none; }'
   ))
