@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "test": "standard"
+    "test": "standard src/",
+    "build": "cd src/ && zip -r ../build.zip ."
   },
   "devDependencies": {
     "standard": "^10.0.3"
