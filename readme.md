@@ -1,6 +1,6 @@
 
 # Twitter Without Numbers
 
-[home](screenshots/home.png)
+![home](screenshots/home.png)
 
-[profile](screenshots/profile.png)
+![profile](screenshots/profile.png)
