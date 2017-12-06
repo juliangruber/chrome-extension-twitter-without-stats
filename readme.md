@@ -1,7 +1,7 @@
 
 # Twitter Without Numbers
 
-Get a more meaningful twitter experience focused on contents by removing all the numbers!
+Get a more meaningful twitter experience focused on content by removing all the numbers!
 
 ## Removes
 
