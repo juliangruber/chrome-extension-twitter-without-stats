@@ -1,7 +1,9 @@
 
 # Twitter Without Numbers
 
-Get a more meaningful twitter experience focused on content by removing all the numbers!
+Get a more meaningful twitter experience focused on content by removing all the numbers.
+
+[Install the extension!](https://chrome.google.com/webstore/detail/twitter-without-numbers/eckokomifkpoaedgihpglbijiplhjdbf)
 
 ## Removes
 
