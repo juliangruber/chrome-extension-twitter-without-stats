@@ -2,7 +2,8 @@ const selectors = [
   '.ProfileTweet-actionCount',
   '.ProfileNav-value',
   '.ProfileCardStats-statValue',
-  '.js-stat-count strong'
+  '.js-stat-count strong',
+  '.stats .stat-count strong'
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
