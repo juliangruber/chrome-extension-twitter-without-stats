@@ -11,6 +11,9 @@ Get a more meaningful twitter experience focused on contents by removing all the
 - Likes
 - Retweets
 - Comment count
+- Who To Follow
+- Your Tweet Activity
+- Trends
 
 ## Screenshots
 

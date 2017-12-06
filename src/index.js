@@ -4,7 +4,9 @@ const selectors = [
   '.ProfileCardStats-statValue',
   '.js-stat-count strong',
   '.stats .stat-count strong',
-  '.wtf-module'
+  '.wtf-module',
+  '.TweetImpressionsModule',
+  '.Trends'
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
