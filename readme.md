@@ -24,3 +24,7 @@ Get a more meaningful twitter experience focused on content by removing all the 
 ![profile](screenshots/profile.png)
 
 ![tweet](screenshots/tweet.png)
+
+## Kudos
+
+Initial implementation by @kemitchell.
